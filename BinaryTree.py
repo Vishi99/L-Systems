@@ -1,3 +1,8 @@
+#variables : 0, 1
+#constants: [, ]
+#axiom : 0
+#rules : (1 → 11), (0 → 1[0]0)
+
 import turtle as t
 
 def init_turtle():

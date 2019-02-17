@@ -1,3 +1,9 @@
+#variables : A B
+#constants : + −
+#axiom : A
+#rules : (A → B−A−B), (B → A+B+A)
+#angle : 60°
+
 import turtle as t
 
 def Produce(depth):

@@ -1,3 +1,9 @@
+#variables : X F
+#constants : + − [ ]
+#axiom : X
+#rules : (X → F+[[X]-X]-F[-FX]+X), (F → FF)
+#angle : 20deg
+
 import turtle as t
 
 def init_turtle():

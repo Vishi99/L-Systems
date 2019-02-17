@@ -1,3 +1,8 @@
+#variables : F
+#constants : + − [ ]
+#axiom : F
+#rules : (F → FF+[+F-F-F]-[-F+F+F])
+
 import turtle as t
 
 def init_turtle():

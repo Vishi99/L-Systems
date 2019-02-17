@@ -1,3 +1,8 @@
+#variables : A
+#constants: +, -
+#axiom : A-A-A
+#rules : (A → A+A-A+A)
+
 import turtle as t
 
 def init_turtle():
